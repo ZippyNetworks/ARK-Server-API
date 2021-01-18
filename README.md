@@ -1,3 +1,6 @@
+# Ark-Server-API-for-Linux
+Original work by Michidu - this is an unofficial fork for Linux hosts. Active Devs encouraged to join our efforts
+
 # ARK-Server-API
 ArkApi is a plugin which allows you to create your own server-side plugins for ARK using C++ language.<br>
 
